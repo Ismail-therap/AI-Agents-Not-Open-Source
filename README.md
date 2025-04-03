@@ -1,0 +1,1 @@
+This AI agent worked once but had issue, because the third party GROQ API was not working. I think i did mazimum token request already under my free account. Than't why we need to learn how to create an Open Source AI-Agent in python!!! 
