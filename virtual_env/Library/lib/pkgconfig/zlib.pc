@@ -1,0 +1,13 @@
+prefix=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library
+exec_prefix=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library
+libdir=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library/lib
+sharedlibdir=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library/lib
+includedir=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

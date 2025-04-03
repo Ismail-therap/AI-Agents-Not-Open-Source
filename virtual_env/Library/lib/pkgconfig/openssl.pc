@@ -1,0 +1,9 @@
+prefix=C:/Users/mhossa11/OneDrive - University of Wyoming/Projects/AI Agent for Stock Buy and Sell 04022025/virtual_env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.16 
