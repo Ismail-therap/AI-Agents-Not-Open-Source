@@ -8,5 +8,3 @@ fastapi
 uvicorn
 groq
 openai
-pycountry
-googlesearch-python

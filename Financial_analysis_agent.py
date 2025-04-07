@@ -58,6 +58,6 @@ print("Multi AI Agent Configuration:", multi_ai_agent)
 
 # Run the agent
 multi_ai_agent.print_response(
-    "Which stock better MSFT or Walmart?.",
+    "Summarize analyst recommendation and share the latest news for NVDA.",
     stream=True,
 )
